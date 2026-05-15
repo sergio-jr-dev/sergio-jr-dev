@@ -95,17 +95,6 @@ También integro **IA aplicada al desarrollo** en mi flujo de trabajo para acele
 
 ---
 
-## GitHub en números
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sergio-jr-dev&show_icons=true&theme=transparent&hide_border=true" alt="GitHub stats de Sergio Jiménez Rubio" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergio-jr-dev&layout=compact&theme=transparent&hide_border=true" alt="Lenguajes más usados por Sergio Jiménez Rubio" />
-
-</div>
-
----
-
 ## Contacto
 
 Puedes encontrarme en:
