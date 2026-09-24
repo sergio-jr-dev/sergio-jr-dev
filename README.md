@@ -69,10 +69,11 @@ También integro **IA aplicada al desarrollo** en mi flujo de trabajo para acele
 | Proyecto | Descripción | Stack | Enlace |
 | --- | --- | --- | --- |
 | **BaselineLab** | Plataforma en desarrollo con playgrounds y generadores de CSS y HTML para acelerar pruebas visuales y creación de código frontend. | Astro · TypeScript · CSS | [Ver proyecto](https://baselinelab.dev) |
+| **Code-Quiz** | Quiz con 180 preguntas sobre HTML, CSS y JavaScript para reforzar conceptos base de frontend. | JavaScript · HTML · CSS | [Repositorio]([https://github.com/sergio-jr-dev/HTML-CSS-Quiz](https://github.com/sergio-jr-dev/Code-Quiz)) |
 | **TemariOS** | Aplicación para alumnos de bootcamp donde centralizo guías, recursos, ejercicios, maquetaciones y quizzes. | React 19 · TypeScript · CSS · Supabase | [Ver proyecto](https://temari-os.vercel.app) |
 | **FlipyFriends** | Juego de memoria para público infantil basado en selección de series animadas y búsqueda de parejas de cartas. | React 19 · JavaScript · CSS | [Ver proyecto](https://flipi-friends.vercel.app/) |
 | **Guía Git/GitHub** | Guía práctica sobre instalación, configuración, comandos, ramas, flujo de trabajo y preguntas frecuentes de Git y GitHub. | Markdown · Git · GitHub | [Repositorio](https://github.com/sergio-jr-dev/Guia-Git_GitHub) |
-| **HTML-CSS-Quiz** | Quiz con 25 preguntas sobre HTML y CSS para reforzar conceptos base de frontend. | JavaScript · HTML · CSS | [Repositorio](https://github.com/sergio-jr-dev/HTML-CSS-Quiz) |
+
 
 ---
 
